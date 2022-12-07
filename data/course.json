@@ -1,0 +1,33 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ocw-course"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ocw-course"
+  },
+  "course_title": "Linear Algebbra Course",
+  "course_description": "Linear Algebbra Course Description",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "101",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "ocw-course"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "76e20621-5307-4adb-bda7-80475a9bf260",
+  "site_short_id": "ocw-course"
+}
