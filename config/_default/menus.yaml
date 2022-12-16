@@ -3,3 +3,7 @@ leftnav:
   name: Menu for Course
   url: /lists/r2
   weight: 10
+- identifier: 8dd69d55-d392-4ae4-9605-4a5510d3e404
+  name: Videos
+  url: /lists/videos
+  weight: 20
