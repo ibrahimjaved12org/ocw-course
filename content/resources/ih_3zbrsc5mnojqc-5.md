@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Ih_3zbrsC5mnOJqc (5).mp4
+title: lecture 8
 uid: a6464e83-70da-43db-9f7f-70e91b86ace9
 video_files:
   video_captions_file: ''
