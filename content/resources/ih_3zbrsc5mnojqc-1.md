@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 4. dawn of the 304
+title: 13. dawn of the 304
 uid: 5c57aa84-b981-4483-8d3a-04457d6f1be2
 video_files:
   video_captions_file: ''
