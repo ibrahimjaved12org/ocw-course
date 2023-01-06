@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/101-linear-algebbra-course-spring-2021/farhan_night_city_with_moon_fbb98058-8988-4709-8a8c-974500387c99.png
+file: /media/courses/101-linear-algebbra-course-spring-2021/463d147baf3948d19a2ff0293127e464_321811632_548640530487985_8172031087735927830_n.jpeg
 file_type: image/png
 image_metadata:
   caption: ''
